@@ -29,10 +29,8 @@ The following image demonstrates the application functionality:
 
 ![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
 
-## Review
+## links
 
-You are required to submit the following for review:
 
-* The URL of the deployed application.
+* https://darkostojanovski.github.io/WeatherAppDash/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
